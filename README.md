@@ -1,5 +1,5 @@
 # Tableau projects
--  [COVID-19 Global Vaccine Tracker](https://github.com/Krodrigues16/Tableau/edit/main/README.md#covid-19-global-vaccine-tracker)
+-  [COVID-19 Global Vaccine Tracker](https://github.com/Krodrigues16/Tableau/tree/main#covid-19-global-vaccine-tracker)
 
 
 ## COVID-19 Global Vaccine Tracker
