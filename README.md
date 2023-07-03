@@ -1,6 +1,6 @@
 # Tableau projects
 -  [COVID-19 Global Vaccine Tracker](https://github.com/Krodrigues16/Tableau/tree/main#covid-19-global-vaccine-tracker)
--  [Brasileirão - Séria A - Performance of each team in each seasonr](https://github.com/Krodrigues16/Tableau/tree/ad8f8ee44b9b2506d99d93f734735607af550042/Brasileir%C3%A3o%20-%20S%C3%A9ria%20A)
+-  [Brasileirão - Séria A - Performance of each team in each seasonr](https://github.com/Krodrigues16/Tableau/tree/main#brasileirão---séria-a---performance-of-each-team-in-each-season)
 
 
 ## COVID-19 Global Vaccine Tracker
