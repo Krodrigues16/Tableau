@@ -3,7 +3,7 @@
 -  [Brasileirão - Séria A - Performance of each team in each seasonr](https://github.com/Krodrigues16/Tableau/tree/main#brasileirão---séria-a---performance-of-each-team-in-each-season)
 
 
-## COVID-19 Global Vaccine Tracker
+## COVID-19 Global Vaccine Tracker [Back to top](https://github.com/Krodrigues16/Tableau/tree/main#tableau-projects)
 ![](https://github.com/Krodrigues16/Tableau/blob/0f0645e43160fcc493fb24e61e6080eaeeb5783f/COVID-19%20Global%20Vaccine%20Tracker/Global%20Vaccine%20Tracker.png)
 
 Tableau public visualization:
